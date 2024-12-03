@@ -67,7 +67,9 @@ else
 	System.out.println("Data stream is invalid. CRC error occurred.");
 }
 }
-
+######################
+for jCRE.class file you have to download from this github it name is jCRC4.class
+#########################
 //Execution steps in Terminal
 //javac jCRC4.java
 //java jCRC4
